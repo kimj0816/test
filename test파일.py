@@ -5,6 +5,7 @@ def solution(s):
     a3 = []
     a4 = []
     answer = ''
+    my_name ="Kim"
     for i in a1:
         a3.append(int(i))
     a3.sort()
